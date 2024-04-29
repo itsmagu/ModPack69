@@ -23,7 +23,7 @@ openMapAnimation:true
 reloadVersion:1
 reloadEverything:false
 zoomButtons:false
-waypointBackgrounds:true
+waypointBackgrounds:false
 detectAmbiguousY:true
 showDisabledWaypoints:false
 closeWaypointsWhenHopping:true
